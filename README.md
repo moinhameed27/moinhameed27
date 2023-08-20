@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Moin U Din</h1>
-<h3 align="center">A passionate mobile application developer from Pakistan</h3>
+<h3 align="center">A passionate Computer Science Student from Pakistan</h3>
 
 - 🌱 I’m currently learning **Android Application Development**
 
