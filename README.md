@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinhameed27" alt="moinhameed27" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/moinhameed27" target="blank"><img src="https://img.shields.io/twitter/follow/moinhameed27?logo=twitter&style=for-the-badge" alt="moinhameed27" /></a> </p>
-
 - 🌱 I’m currently learning **Android Application Development**
 
 - 📫 How to reach me **moinhameed27@gmail.com**
